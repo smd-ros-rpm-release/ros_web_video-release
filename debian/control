@@ -1,0 +1,12 @@
+Source: ros-groovy-ros-web-video
+Section: misc
+Priority: extra
+Maintainer: Russell Toris <rctoris@wpi.edu>
+Build-Depends: debhelper (>= 7.0.50~), git-core, libbz2-dev, ros-groovy-catkin, ros-groovy-image-transport, ros-groovy-mk, ros-groovy-roscpp, ros-groovy-rostime, ros-groovy-sensor-msgs, yasm, zlib1g-dev
+Homepage: http://wiki.ros.org/ros_web_video
+Standards-Version: 3.9.2
+
+Package: ros-groovy-ros-web-video
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libbz2-dev, ros-groovy-image-transport, ros-groovy-mk, ros-groovy-roscpp, ros-groovy-rostime, ros-groovy-sensor-msgs, zlib1g-dev
+Description: Streaming of ROS Image Topics via HTTP
