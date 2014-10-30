@@ -1,3 +1,24 @@
+## ros_web_video (hydro) - 0.1.14-0
+
+The packages in the `ros_web_video` repository were released into the `hydro` distro by running `/usr/bin/bloom-release --rosdistro hydro --track hydro ros_web_video` on `Thu, 30 Oct 2014 18:15:44 -0000`
+
+The `ros_web_video` package was released.
+
+Version of package(s) in repository `ros_web_video`:
+- upstream repository: https://github.com/RobotWebTools/ros_web_video.git
+- release repository: https://github.com/RobotWebTools-release/ros_web_video-release.git
+- rosdistro version: `0.1.13-0`
+- old version: `0.1.13-0`
+- new version: `0.1.14-0`
+
+Versions of tools used:
+- bloom version: `0.5.12`
+- catkin_pkg version: `0.2.6`
+- rosdep version: `0.10.32`
+- rosdistro version: `0.3.6`
+- vcstools version: `0.1.35`
+
+
 ## ros_web_video (indigo) - 0.1.14-0
 
 The packages in the `ros_web_video` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --rosdistro indigo --track indigo ros_web_video` on `Thu, 30 Oct 2014 18:13:50 -0000`
